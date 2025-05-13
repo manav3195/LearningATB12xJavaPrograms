@@ -10,3 +10,5 @@ public class Lab018 {
 
     }
 }
+
+// This is java code
