@@ -8,6 +8,8 @@ public class Lab017_Variables {
         age = 76;
         System.out.println(age);
 
+        // This is Java program
+
 
 
     }
