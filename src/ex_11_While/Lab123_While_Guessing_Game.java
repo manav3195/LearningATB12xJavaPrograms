@@ -6,10 +6,10 @@ import java.util.Scanner;
 public class Lab123_While_Guessing_Game {
     public static void main(String args[])
     {
-        System.out.println("Pass guessing game");
+        System.out.println("While loop guessing game");
         int attempts=0;
         Random random = new Random();
-        int number_to_guess = random.nextInt(100)+1;
+        int number_to_guess = random.nextInt(100)+1; // it will take range from 1 to 100
         System.out.println(number_to_guess);
         Scanner scanner = new Scanner(System.in);
         while(true)
