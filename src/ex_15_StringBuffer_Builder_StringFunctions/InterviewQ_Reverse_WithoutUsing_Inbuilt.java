@@ -15,6 +15,5 @@ public class InterviewQ_Reverse_WithoutUsing_Inbuilt {
         StringBuffer sb = new StringBuffer(name);
         System.out.println(sb.reverse());
 
-
     }
 }
