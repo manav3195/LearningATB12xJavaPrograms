@@ -6,6 +6,9 @@ public class Lab148_SB {
         StringBuffer sb = new StringBuffer("Java");
         sb.append(" Programming");
         System.out.println(sb);
+        //sb.delete(5,16); // Delete the Substring
+        // System.out.println(sb);
+
 
         sb.replace(0,4,"C++");
         System.out.println(sb);
